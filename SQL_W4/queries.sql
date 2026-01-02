@@ -3,8 +3,7 @@
 /*
 This Is The Schema i Have followed to solve the SQL Assignement Problems
 
-
-✅ DATABASE STRUCTURE (SCHEMA)
+DATABASE STRUCTURE (SCHEMA)
 
 products
 ---------
